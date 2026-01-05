@@ -1,0 +1,33 @@
+#container {
+    background-color: rgb(202, 202, 202);
+    display: inline-block;
+    box-shadow: 0 5px 15px black;
+
+}
+
+.box {
+
+
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-color: black;
+    border: 1px solid black;
+
+}
+
+#first {
+    background-color: green;
+
+}
+
+#second {
+    background-color: orange;
+}
+
+.button {
+
+    background-color: lightgreen;
+    border: 2px solid darkgreen;
+
+}
